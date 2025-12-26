@@ -25,19 +25,6 @@ Estudante de Ciência da Computação na **UNIVEM** e atualmente atuando como **
 ![Networks](https://img.shields.io/badge/Support_&_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurvrrossi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvrrossi&layout=compact&theme=radical)
-
----
-
-### 🤝 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
  
  ##
  
