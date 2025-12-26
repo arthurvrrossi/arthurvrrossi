@@ -1,22 +1,43 @@
-### Oii! Eu sou o Arthur Rossi  👋
+# Olá, eu sou o Arthur Rossi 👋
 
+Estudante de Ciência da Computação na **UNIVEM** e atualmente atuando como **Analista de Suporte de Redes**. Sou um entusiasta da tecnologia focado em transformar problemas em soluções digitais através do código.
 
-- 🌱 Estudante de ciencia da computação  
-- 📫 Contate-me no email: arthurvrrossi@gmail.com
-- 😄Pronome: ele/dele 
- 
-<div >
-  <a href="https://github.com/arthurvrrossi">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=arthurvrrossi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvrrossi&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+---
 
- </div>
+### 🚀 Sobre Mim
+
+- 👨‍💻 Atualmente trabalhando com suporte de infraestrutura e redes, o que me dá uma base sólida em conectividade e sistemas.
+- 🎓 Cursando Ciência da Computação (foco total em algoritmos e estrutura de dados).
+- 🎮 Apaixonado por **Game Development** e **Web Development**.
+- 🛠️ Constantemente aprimorando meu stack de Python e JavaScript.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens e Web:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Infraestrutura e Redes:**
+![Networks](https://img.shields.io/badge/Support_&_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurvrrossi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvrrossi&layout=compact&theme=radical)
+
+---
+
+### 🤝 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
  
  ##
  
