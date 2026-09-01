@@ -23,7 +23,6 @@ Estudante de Ciência da Computação na **UNIVEM** e atualmente atuando como **
 
 **Infraestrutura e Redes:**
 ![Networks](https://img.shields.io/badge/Support_&_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
  
  ##
